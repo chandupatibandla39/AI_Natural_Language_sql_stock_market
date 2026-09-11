@@ -17,7 +17,9 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-DB_PATH = r"C:\StockMarketProject\stock_market.db"
+from pathlib import Path
+
+DB_PATH = str(Path(__file__).parent / "stock_market.db")
 
 # ============================================================
 # STYLE
