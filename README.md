@@ -1,8 +1,26 @@
-📊 AI-Powered Natural Language SQL Stock Market Analytics
+# 📊 AI-Powered Natural Language SQL Stock Market Analytics
 
-###Ask business questions in plain English. Get SQL-backed analytical insights instantly.
+### Ask business questions in plain English. Get SQL-backed insights instantly.
 
-An end-to-end AI-powered stock market analytics platform that transforms natural-language questions into SQL queries, executes them against a structured market database, and delivers interactive analytical insights through an executive-style dashboard
+An end-to-end AI-powered stock market analytics platform that converts natural-language questions into SQL queries, executes them against a structured SQLite market database, and delivers interactive, data-driven insights through an executive-style Streamlit dashboard.
+
+**Tech Stack:** Python • SQL • SQLite • Streamlit • Pandas • Plotly • AI/NLP
+
+**Live Demo:** https://ainaturallanguagesqlstockmarket-c46cjfuqjxfjztuwd4fp3z.streamlit.app/
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success)](https://ainaturallanguagesqlstockmarket-c46cjfuqjxfjztuwd4fp3z.streamlit.app/)
+[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-SQLite-orange)](https://www.sqlite.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)](https://streamlit.io/)
+## ⭐ Key Highlights
+
+- 🤖 **Natural Language → SQL** — Ask stock-market questions in plain English
+- 📊 **25+ Interactive Analytics** — Price, volume, turnover, volatility, momentum, and performance analysis
+- 🗄️ **SQLite Data Warehouse** — Structured market data with SQL-based analytics
+- 📈 **Executive Dashboard** — Interactive Streamlit dashboard with Plotly visualizations
+- 🧠 **AI-Powered Query Generation** — Automatically converts business questions into SQL
+- ☁️ **Cloud Deployed** — Fully deployed and tested on Streamlit Community Cloud
+- 🛡️ **Validation & Error Handling** — SQL validation, query execution checks, and user-friendly error handling
+
 
 ---
 
