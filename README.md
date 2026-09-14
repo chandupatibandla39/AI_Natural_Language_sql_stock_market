@@ -1,4 +1,4 @@
-# 📊 AI-Powered Natural Language SQL Stock Market Analytics
+# AI-Powered Natural Language SQL Stock Market Analytics
 
 ### Ask business questions in plain English. Get SQL-backed insights instantly.
 
@@ -11,20 +11,20 @@ An end-to-end AI-powered stock market analytics platform that converts natural-l
 [![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-SQLite-orange)](https://www.sqlite.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)](https://streamlit.io/)
-## ⭐ Key Highlights
+##  Key Highlights:
 
-- 🤖 **Natural Language → SQL** — Ask stock-market questions in plain English
-- 📊 **25+ Interactive Analytics** — Price, volume, turnover, volatility, momentum, and performance analysis
-- 🗄️ **SQLite Data Warehouse** — Structured market data with SQL-based analytics
-- 📈 **Executive Dashboard** — Interactive Streamlit dashboard with Plotly visualizations
-- 🧠 **AI-Powered Query Generation** — Automatically converts business questions into SQL
-- ☁️ **Cloud Deployed** — Fully deployed and tested on Streamlit Community Cloud
-- 🛡️ **Validation & Error Handling** — SQL validation, query execution checks, and user-friendly error handling
+-  **Natural Language → SQL** — Ask stock-market questions in plain English
+-  **25+ Interactive Analytics** — Price, volume, turnover, volatility, momentum, and performance analysis
+-  **SQLite Data Warehouse** — Structured market data with SQL-based analytics
+-  **Executive Dashboard** — Interactive Streamlit dashboard with Plotly visualizations
+-  **AI-Powered Query Generation** — Automatically converts business questions into SQL
+-  **Cloud Deployed** — Fully deployed and tested on Streamlit Community Cloud
+- **Validation & Error Handling** — SQL validation, query execution checks, and user-friendly error handling
 
 
 ---
 
-## 📌 Project Overview
+##  Project Overview:
 
 This project is an **AI-powered stock market analytics application** designed to make data analysis accessible through natural language.
 
@@ -32,7 +32,7 @@ Instead of manually writing SQL queries, users can ask questions about stock-mar
 
 The project combines **Python, SQL, SQLite, Pandas, AI-powered query generation, Plotly, and Streamlit** into a complete end-to-end analytics solution.
 
-### 🔄 Core Workflow
+###  Core Workflow:
 
 ```text
 Natural Language Question
@@ -53,9 +53,9 @@ Natural Language Question
 
 ---
 
-## 🎯 Business Problem & Objective
+##  Business Problem & Objective:
 
-### ❗ The Problem
+###  The Problem:
 
 Stock-market datasets contain large volumes of historical trading information, but extracting meaningful insights often requires a combination of **SQL knowledge, data-analysis skills, and visualization tools**.
 
@@ -67,7 +67,7 @@ would normally require the user to understand the database structure and write a
 
 This creates a challenge for **non-technical business users, analysts, and decision-makers** who need insights quickly but may not be comfortable writing SQL.
 
-### 💡 The Objective
+###  The Objective:
 
 The objective of this project is to build an **AI-powered natural-language analytics layer** that allows users to interact with structured stock-market data using plain English.
 
@@ -81,7 +81,7 @@ The system is designed to:
 - Make financial data exploration faster and more accessible
 - Demonstrate how AI can be integrated into a practical analytics workflow
 
-### 🎯 Core Goal
+###  Core Goal:
 
 > **Transform a business question into a data-backed analytical answer with minimal technical effort.**
 
@@ -99,15 +99,15 @@ Insight
 
 ---
 
-## 💡 Solution
+## Solution:
 
 The application introduces a natural-language analytics layer on top of a structured stock-market database.
 
 Users can ask questions in plain English, while the application handles the technical workflow of interpreting the question, generating SQL, executing the query, and presenting the result.
 
-### 🔑 Key Features
+### Key Features:
 
-#### 🧠 1. Natural Language → SQL
+####  1. Natural Language → SQL
 
 Users can ask stock-market questions without manually writing SQL.
 
@@ -119,7 +119,7 @@ The system converts the question into an appropriate SQL query and executes it a
 
 ---
 
-#### 🗄️ 2. SQL-Powered Analytics
+####  2. SQL-Powered Analytics:
 
 The application uses a SQLite database to perform analytical queries on structured stock-market data.
 
@@ -137,7 +137,7 @@ It supports operations such as:
 
 ---
 
-#### 🔍 3. SQL Transparency
+#### 3. SQL Transparency:
 
 The generated SQL query is displayed to the user.
 
@@ -145,13 +145,13 @@ This provides transparency into how the natural-language question was translated
 
 ---
 
-#### 📊 4. Interactive Executive Dashboard
+####  4. Interactive Executive Dashboard:
 
 The application provides an executive-style dashboard for exploring stock-market performance through interactive charts, KPIs, filters, and analytical views.
 
 ---
 
-#### 📈 5. Multi-Dimensional Market Analysis
+####  5. Multi-Dimensional Market Analysis:
 
 The dashboard provides analysis across multiple dimensions, including:
 
@@ -167,19 +167,19 @@ The dashboard provides analysis across multiple dimensions, including:
 
 ---
 
-#### 🎛️ 6. Interactive Stock & Date Selection
+#### 6. Interactive Stock & Date Selection:
 
 Users can select the stock and analysis period to dynamically explore the available market data.
 
 ---
 
-#### ☁️ 7. Cloud Deployment
+#### 7. Cloud Deployment:
 
 The application is deployed as a live web application using Streamlit Community Cloud, making the analytics platform accessible through a browser.
 
 ---
 
-### ⭐ What Makes the Solution Different?
+### What Makes the Solution Different?
 
 Traditional stock dashboards primarily focus on predefined charts and filters.
 
@@ -207,7 +207,7 @@ Dynamic Answer
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture:
 
 The application follows a layered analytics architecture that connects the user interface, AI query-generation layer, SQL engine, database, and visualization layer.
 
@@ -375,7 +375,7 @@ Visualization Layer — Interactive Plotly charts
 
 ---
 
-## 📊 Dashboard & Analytics Features
+##  Dashboard & Analytics Features:
 
 The application provides an interactive **Executive Analytics Control Panel** designed to help users explore stock-market performance from multiple analytical perspectives.
 
@@ -383,7 +383,7 @@ The dashboard combines financial KPIs, interactive visualizations, statistical a
 
 ---
 
-### 🎛️ Interactive Controls
+###  Interactive Controls:
 
 Users can dynamically control the analysis using:
 
@@ -397,11 +397,11 @@ These controls allow users to explore different stocks and time periods without 
 
 ---
 
-## 📈 Price Analytics
+##  Price Analytics:
 
 The dashboard provides detailed analysis of stock price movements.
 
-### Included Analysis
+### Included Analysis:
 
 - Closing Price Trend
 - Open Price
@@ -419,7 +419,7 @@ These visualizations help users understand price movements and trading behavior 
 
 ---
 
-## 📊 Trading Volume & Turnover Analytics
+##  Trading Volume & Turnover Analytics:
 
 Trading activity is analyzed through volume and turnover metrics.
 
@@ -439,7 +439,7 @@ This helps identify periods of increased market activity and understand the rela
 
 ---
 
-## 📉 Performance & Trend Analytics
+##  Performance & Trend Analytics:
 
 The application provides multiple time-based performance views.
 
@@ -458,7 +458,7 @@ These views help users identify directional movements and changes in market perf
 
 ---
 
-## 📐 Risk & Volatility Analytics
+##  Risk & Volatility Analytics:
 
 The dashboard also provides statistical measures that help users understand price variability.
 
@@ -474,7 +474,7 @@ These analytics provide additional context beyond simple price movements.
 
 ---
 
-## 🔗 Correlation & Relationship Analysis
+##  Correlation & Relationship Analysis:
 
 The dashboard includes relationship-based analysis to explore how different market variables interact.
 
@@ -491,7 +491,7 @@ This helps users identify potential relationships within the underlying market d
 
 ---
 
-## 🕯️ Financial Market Visualizations
+##  Financial Market Visualizations:
 
 Interactive Plotly visualizations are used to provide a more intuitive view of market behavior.
 
@@ -509,7 +509,7 @@ Charts are interactive, allowing users to inspect specific dates, values, and ma
 
 ---
 
-## 📋 Market Data Explorer
+##  Market Data Explorer:
 
 A structured market-data table allows users to inspect the underlying records used for analysis.
 
@@ -529,7 +529,7 @@ This provides a direct connection between the raw analytical data and the visual
 
 ---
 
-## 🧠 Natural Language Analytics Panel
+##  Natural Language Analytics Panel
 
 A dedicated natural-language analytics section allows users to ask questions directly.
 
@@ -548,7 +548,7 @@ SQL Execution
       ↓
 Result
 The generated SQL is also displayed, providing transparency into the analytical process.
-🎯 Executive Analytics Perspective
+ Executive Analytics Perspective
 
 The dashboard is designed to support three levels of analysis:
 
@@ -582,7 +582,7 @@ ANALYZE
 ASK
    ↓
 UNDERSTAND
-⭐ Dashboard Value
+ Dashboard Value
 
 Instead of presenting a collection of isolated charts, the dashboard brings together:
 
@@ -606,10 +606,10 @@ Interactive Visualizations
 
 This creates a unified analytics experience for exploring historical stock-market data.
 
-Section 7 — 🧠 Natural Language → SQL Engine
+Section 7 —  Natural Language → SQL Engine:
 ---
 
-## 🧠 Natural Language → SQL Engine
+##  Natural Language → SQL Engine
 
 One of the core components of this project is the **Natural Language → SQL analytics layer**.
 
@@ -693,7 +693,7 @@ Close
 VWAP
 Volume
 Turnover
-📌 Example Questions
+ Example Questions
 
 Users can ask questions such as:
 
@@ -708,7 +708,7 @@ Which trading days had the highest volume?
 
 The natural-language interface translates these analytical requirements into database queries.
 
-🛡️ Query Validation & Error Handling
+ Query Validation & Error Handling:
 
 The application includes a validation and error-handling layer between SQL generation and database execution.
 
@@ -723,7 +723,7 @@ Empty query results
 
 The objective is to prevent technical database errors from becoming confusing user experiences.
 
-🔐 Database-Aware Query Generation
+ Database-Aware Query Generation
 
 The SQL generation process is designed around the structure of the application's analytical database.
 
@@ -747,7 +747,7 @@ Turnover
 
 Understanding the database schema allows the AI layer to generate queries that correspond to the available analytical fields.
 
-🎯 Why Natural Language SQL Matters
+ Why Natural Language SQL Matters:
 
 Traditional analytics often requires users to know:
 
@@ -773,7 +773,7 @@ Insight
 
 This approach demonstrates how AI can act as an interface between business users and structured data systems.
 
-💼 Business Intelligence Use Case
+ Business Intelligence Use Case:
 
 The same natural-language SQL architecture can be applied beyond stock-market analytics.
 
@@ -792,7 +792,7 @@ The stock-market application serves as a practical implementation of this broade
 
 ---
 
-## 🗄️ Data Engineering & Database Design
+##  Data Engineering & Database Design:
 
 A reliable analytics application depends on a clean, structured, and queryable data layer.
 
@@ -800,7 +800,7 @@ This project follows a data-processing pipeline that transforms raw stock-market
 
 ---
 
-## 🔄 Data Preparation Pipeline
+##  Data Preparation Pipeline:
 
 ```text
 Raw Stock Files
@@ -816,7 +816,7 @@ Data Consolidation
 SQLite Database
       ↓
 Analytical Queries
-1️⃣ Data Inspection
+Data Inspection
 
 The raw stock-market files were first examined to understand:
 
